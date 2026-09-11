@@ -16,7 +16,29 @@
 
 ## About Me
 
-Third-year Computer Science student at **Arab Open University**, majoring in **Cyber Security**. Hands-on experience in penetration testing, vulnerability assessment, bug bounty hunting, Linux administration, and computer networking. Currently building practical skills toward a career as a **Junior Penetration Tester**.
+
+Hi, I'm **Mazen Mahmoud**, a **Junior Penetration Tester** focused on **Cyber Security, Penetration Testing, Vulnerability Assessment, Web Application Security, and Bug Bounty Hunting**.
+
+I enjoy exploring systems and applications to understand how they work, identify security vulnerabilities, and analyze how they can be exploited in controlled environments.
+
+### 🛡️ Cyber Security
+
+* 🎯 Penetration Testing
+* 🐞 Bug Hunting
+* 🔎 Vulnerability Assessment & Analysis
+* 🌐 Web Application Security
+* 🏢 Active Directory Security
+* 🔐 Network Security
+* 🐧 Linux & Windows Security
+* 🔬 Vulnerability Research
+
+### 🚀 Currently Improving
+
+I'm continuously developing my practical skills through **hands-on penetration testing labs, CTFs, Bug Bounty programs, vulnerability research, and real-world security scenarios**.
+
+My goal is to become a stronger **Penetration Tester and Vulnerability Analyst**, while continuously improving my ability to identify, understand, and responsibly report security vulnerabilities.
+
+> **Find vulnerabilities. Understand the impact. Make systems more secure. 🔐**
 
 ---
 
